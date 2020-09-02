@@ -8,7 +8,7 @@ This is a Quick Demo of Using Azure Functions with some example code and referen
 
 <h3>First thing: What are Azure Functions ?</h3>
 
-Azure Functions allows you to run small pieces of code (called "functions") without worrying about application infrastructure. 
+An Azure Function allows you to run small pieces of code (called "functions") without worrying about application infrastructure. 
 
 <h3>Next: Why use Azure Functions ?</h3>
 
